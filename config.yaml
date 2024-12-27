@@ -379,11 +379,6 @@ pcbs:
         where:
           ref: matrix_first_bottom
           shift: [pushX, -pushY]
-      hole_top_left:
-        what: mountinghole
-        where:
-          ref: matrix_second_top
-          shift: [-pushX, -pushY]
       hole_top_right:
         what: mountinghole
         where:
@@ -528,11 +523,6 @@ pcbs:
         where:
           ref: mirror_matrix_first_bottom
           shift: [pushX, -pushY]
-      hole_top_left:
-        what: mountinghole
-        where:
-          ref: mirror_matrix_second_top
-          shift: [-pushX, -pushY]
       hole_top_right:
         what: mountinghole
         where:
