@@ -339,7 +339,7 @@ pcbs:
       jstph:
         what: jstph
         where:
-          ref: matrix_fourth_home
+          ref: matrix_fourth_bottom
           shift: [-7, 5.5]
           rotate: 90
         params:
